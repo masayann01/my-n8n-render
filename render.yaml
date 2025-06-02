@@ -33,7 +33,8 @@ services:
       - key: N8N_BASIC_AUTH_USER
         value: admin
       - key: N8N_BASIC_AUTH_PASSWORD
-        value: 任意の強力なパスワード
+        value: 任意のパスワード
       - key: WEBHOOK_URL
         value: https://n8n-xxxx.onrender.com/
+
 
